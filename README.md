@@ -2,20 +2,15 @@
 # VidYa
 VidYa is a video calling application 
 
-<br>
-# Contributers
-Manas Pandey
-Devendra Singh
-Deepak Singh
-
-# Tech Stack
-
-=======
+Wrapper application around the Zego Video Call SDK
+https://www.zegocloud.com/product/video-call
 
 ## Features
+- [ ] User Authentication
+- [ ] Group Codes 
 - [ ] One to One Calls
 - [ ] Group Calls
-
+- [ ] In call chats
 
 ## Tech 
 
