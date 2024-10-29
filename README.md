@@ -3,8 +3,8 @@
 VidYa is a video calling application 
 
 ## Features
-- [] One to One Calls
-- [] Group Calls
+- [ ] One to One Calls
+- [ ] Group Calls
 
 
 ## Tech 
